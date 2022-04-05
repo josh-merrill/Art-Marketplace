@@ -1,4 +1,4 @@
-<h1>Art Collective: A digital art marketplace</h1>
+<h1>Art Collective: An art marketplace</h1>
 
 ## Description
 
